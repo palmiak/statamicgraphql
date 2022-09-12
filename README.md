@@ -1,3 +1,5 @@
+[![How to connect headless Statamic with Astro - GraphQL edition](https://user-images.githubusercontent.com/2342458/189666309-04625ce9-8aa7-4513-b1d8-7fef6a154a85.png)](https://buddy.works/guides/statamic-graphql)
+
 # How to connect headless Statamic with Astro - GraphQL edition
 
 This is a repository used in this [guide](https://buddy.works/guides/statamic-graphql).
